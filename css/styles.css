@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+
+    
+}
+h1{
+    margin-top: 0;
+    padding-top: 30px;
+}
+hr{
+    background-color: wheat;
+    width: 20%;
+    border-style: dotted;
+    border-width: 20px;
+    border-bottom: 0;
+    color: gray;
+}
+
+.first-container{
+    background-color:peachpuff;
+    text-align: center;
+}
+.recepies-list{
+    display: inline-block;
+}
