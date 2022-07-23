@@ -8,19 +8,36 @@ h1{
     margin-top: 0;
     padding-top: 30px;
 }
-hr{
-    background-color: wheat;
+hr,.class-for-momo hr{
+    padding: 50px;
+    background-color: peachpuff;
     width: 20%;
     border-style: dotted;
     border-width: 20px;
     border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
     color: gray;
+}
+.class-for-momo hr{
+    background-color: aliceblue;
 }
 
 .first-container{
     background-color:peachpuff;
     text-align: center;
 }
-.recepies-list{
+.recepies-list, .class-for-momo .momo-list,.class-for-barbeque .barbeque-list,.blueberry-list{
     display: inline-block;
+}
+
+.class-for-momo .second-container,.footer,.class-for-barbeque,.class-for-blueberry{
+    background-color: aliceblue;
+    text-align: center;
+    
+}
+
+.barbeque-image{
+    width: auto;
+    height: 400px;
 }
