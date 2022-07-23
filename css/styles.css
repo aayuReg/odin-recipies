@@ -29,6 +29,7 @@ hr,.class-for-momo hr{
 }
 .recepies-list, .class-for-momo .momo-list,.class-for-barbeque .barbeque-list,.blueberry-list{
     display: inline-block;
+    text-align: left;
 }
 
 .class-for-momo .second-container,.footer,.class-for-barbeque,.class-for-blueberry{
